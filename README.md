@@ -1,3 +1,3 @@
 # demo-repo
-this is my first repo
+this is my first repository.
 Author-Mohd Sajid
